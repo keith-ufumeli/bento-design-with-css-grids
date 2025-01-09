@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-bento-ui-with-css-grids-Ni2BymAqqB)
+- Live Site URL: [Add live site URL here](https://bento-design-with-css-grids.vercel.app/)
 
 ## My process
 
@@ -72,7 +72,7 @@ This allowed me to define a grid layout with specific named areas, making it eas
 
 ### Continued Development
 
-As I move forward, I plan to continue focusing on improving my skills with CSS Grids and Flexbox in UI design. The Bento grid challenge has demonstrated the power and flexibility of these CSS layout tools, and I'm eager to further expand my knowledge and apply them to solve more complex design problems.
+As I move forward, I plan to continue improving my CSS Grids and Flexbox skills in UI design. The Bento grid challenge has demonstrated the power and flexibility of these CSS layout tools, and I'm eager to expand my knowledge further and apply them to solve more complex design problems.
 
 Specifically, I want to explore advanced techniques for creating responsive and dynamic grid-based layouts, as well as mastering the art of combining Grids and Flexbox to achieve intricate and visually appealing user interfaces. 
 
@@ -81,10 +81,10 @@ Additionally, I'd like to delve deeper into the optimization of grid-based layou
 
 ### Useful resources
 
-- [Bento Grids Design (FreeCodeCamp)](https://www.freecodecamp.org/news/bento-grids-in-web-design/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Bento Grids Design (FreeCodeCamp)](https://www.freecodecamp.org/news/bento-grids-in-web-design/) - This helped me for XYZ reason. I liked this pattern and will use it going forward.
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@keith-ufumeli](https://www.frontendmentor.io/profile/keith-ufumeli)
 
