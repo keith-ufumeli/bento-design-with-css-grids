@@ -81,7 +81,7 @@ Additionally, I'd like to delve deeper into the optimization of grid-based layou
 
 ### Useful resources
 
-- [Bento Grids Design (FreeCodeCamp)](https://www.freecodecamp.org/news/bento-grids-in-web-design/) - This helped me for XYZ reason. I liked this pattern and will use it going forward.
+- [Bento Grids Design (FreeCodeCamp)](https://www.freecodecamp.org/news/bento-grids-in-web-design/) - This helped me by offering robust solutions for creating complex layouts with ease, that is using CSS Grids and FLexbox to create bento grids.
 
 
 ## Author
