@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-bento-ui-with-css-grids-Ni2BymAqqB)
-- Live Site URL: [Add live site URL here](https://bento-design-with-css-grids.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-bento-ui-with-css-grids-Ni2BymAqqB)
+- Live Site URL: [Vercel](https://bento-design-with-css-grids.vercel.app/)
 
 ## My process
 
